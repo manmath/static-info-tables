@@ -1,0 +1,29 @@
+{
+    "name": "manmath/static-info-tables",
+    "description": "Sample packages",
+    "keywords": ["laravel", "country"],
+    "license": "MIT",
+    "support": {
+        "issues": "https://github.com/manmath/static-info-tables/issues",
+        "source": "https://github.com/manmath/static-info-tables"
+    },
+    "authors": [
+        {
+            "name": "Man Math",
+            "email": "manmath4@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Manmath\\StaticInfoTables\\": "src/"
+        }
+    }
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
