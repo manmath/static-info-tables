@@ -20,7 +20,7 @@
         "psr-4": {
             "Manmath\\StaticInfoTables\\": "src/"
         }
-    }
+    },
     "config": {
         "sort-packages": true
     },
